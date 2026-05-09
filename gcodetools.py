@@ -2491,7 +2491,7 @@ class Postprocessor(object):
         processed_lines = []
         last_state = None 
         
-        processed_lines.append("(creado por miamolillo)")
+        #processed_lines.append("(creado por miamolillo)")
 
         for line in self.gcode.split("\n"):
             original_line = line.strip()
