@@ -1,5 +1,3 @@
-readme_content = """# Gcodetools Pen Plotter (Servo Edition)
-
 Esta es una versión modificada de la clásica extensión **Gcodetools** para Inkscape. Está diseñada específicamente para **Pen Plotters** y máquinas CNC DIY que utilizan un **servomotor** para subir y bajar el lápiz en lugar de un motor paso a paso en el eje Z.
 
 ---
