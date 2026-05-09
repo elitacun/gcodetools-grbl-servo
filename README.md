@@ -16,10 +16,11 @@ Esta es una versión modificada de la clásica extensión **Gcodetools** para In
 
 1.  Descarga los archivos `gcodetools.py` y `gcodetools_pen_plotter.inx`.
 2.  Copia ambos archivos en la carpeta de extensiones de Inkscape:
-    * **Linux:** `~/.config/inkscape/extensions/`
+    * **Linux: (Appimage)** `~/.config/inkscape/extensions/`
     * **Windows:** `%APPDATA%\\inkscape\\extensions\\`
     * **macOS:** `~/Library/Application Support/org.inkscape.Inkscape/config/inkscape/extensions/`
-3.  Reinicia Inkscape.
+3. Copiar el archivo footer al directorio output (tu carpeta de salida configurada donde se guardan los gcode generados por gcodetools)
+4.  Reinicia Inkscape.
 
 ---
 
