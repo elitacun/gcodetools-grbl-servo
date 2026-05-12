@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
-    <name>1 Path to Gcode Pen Plotter</name>
+    <name>Path to Gcode Pen Plotter</name>
     <id>miamolillo.plotter.gcodetools_ptg</id>
     <param name='active-tab' type="notebook">
 
@@ -84,7 +84,7 @@ Gcodetools ver. 1.7
     <effect>
         <object-type>path</object-type>
         <effects-menu>
-            <submenu name="Gcodetools"/>
+            <submenu name="Pen Plotter Tools"/>
         </effects-menu>
     </effect>
     <script>
