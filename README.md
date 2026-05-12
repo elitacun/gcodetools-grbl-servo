@@ -26,7 +26,7 @@ Esta es una versión modificada de la clásica extensión **Gcodetools** para In
 
 ## ⚙️ Configuración en Inkscape
 
-En el menú `Extensiones > Gcodetools > 1 Path to Gcode Pen Plotter`, navega a la pestaña **Preferences** para ver los nuevos parámetros:
+En el menú `Extensiones > Pen Plotter Tools > Path to Gcode Pen Plotter`, navega a la pestaña **Preferences** para ver los nuevos parámetros:
 
 | Parámetro | Valor Sugerido | Descripción |
 | :--- | :--- | :--- |
